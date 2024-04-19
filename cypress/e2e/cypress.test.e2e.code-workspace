@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Users/eduardo.marquis/Desktop/ESTUDO"
+		},
+		{
+			"path": "../../../../Users/eduardo.marquis/Desktop"
+		},
+		{
+			"path": "../../../../Users/eduardo.marquis/Desktop/TESTE JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}

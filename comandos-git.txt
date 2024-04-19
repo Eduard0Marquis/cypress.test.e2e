@@ -1,0 +1,4 @@
+git status = ver os arquivos que eu ignorei
+
+git add . = adicionar no commit 
+
