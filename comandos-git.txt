@@ -2,3 +2,6 @@ git status = ver os arquivos que eu ignorei
 
 git add . = adicionar no commit 
 
+git commit -m "first commit" = criar um comentario
+
+git push = envia o codigo literalmente pro git
